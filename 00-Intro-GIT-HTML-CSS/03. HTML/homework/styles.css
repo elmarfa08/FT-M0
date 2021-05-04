@@ -1,20 +1,29 @@
 
+body {    
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v936-background-adj-08.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=eb5816bfb1a2e622f0fe22c39376e217");
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
 h1 {
     color: coral;
 }
 img {
     width: 400px;
-}
+    }
 
-.thirdDiv{
+#thirdDiv{
+    margin: auto;
     height: 600px;
     width: 500px;
     background-color: crimson;
     padding: 50px;
-    border: darkgoldenrod 5px;
+    border: darkgoldenrod 60px;
 }
-.spanId{
+#spanId{
     font-size: 18px;
     margin: 50px;
 }
+
+
 
